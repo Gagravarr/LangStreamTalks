@@ -3,5 +3,5 @@
 
 These are presentations, talks etc I've given on LangStream
 
-https://langstream.ai/
-https://github.com/LangStream/langstream/
+ * https://langstream.ai/
+ * https://github.com/LangStream/langstream/
